@@ -1,2 +1,1 @@
-# pca
-machine learning pca
+# pca-intro_lesson
